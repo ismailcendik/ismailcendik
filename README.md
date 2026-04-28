@@ -29,7 +29,7 @@ Profesyonel test sistemleri inşa eden, web otomasyonu ve kalite süreçlerini s
 
 - **[Bankasurrance](https://github.com/ismailcendik/Bankasurrance):** Cypress tabanlı, POM yapısında, dinamik veri yönetimli (Data-Driven) bankacılık otomasyon framework'ü.
 - **[MedikalSozluk](https://github.com/ismailcendik/MedikalSozluk):** ASP.NET MVC tabanlı N-Tier mimari ile geliştirilmiş medikal sözlük sistemi.
-- **[OzelRandevu](https://github.com/ismailcendik/MedikalSozluk):** .Net Core ,PostgreSql mimari ile geliştirilmiş özel randevu modülü.
+- **[OzelRandevu](https://github.com/ismailcendik/OzelRandevu):** .Net Core ,PostgreSql mimari ile geliştirilmiş özel randevu modülü.
 
 ---
 
