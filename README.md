@@ -9,18 +9,18 @@ Profesyonel test sistemleri inşa eden, web otomasyonu ve kalite süreçlerini s
 ### 🛠️ Teknolojiler & Araçlar
 
 - **Test Frameworks:** Cypress, Playwright, Selenium 
-- **Languages:** JavaScript, Typescript, .NET, SQL
-- **CI/CD:** Azure Pipelines, GitHub Actions, Jenkins
-- **Tools:** Postman (API Testing), Git, Docker, Jmeter
-- **Specialties:** Page Object Model (POM), Data-Driven Testing, Network Intercepting
+- **Languages:** JavaScript, Typescript, Node.js, .NET, SQL
+- **CI/CD:** Azure Pipelines, GitHub Actions, Jenkins, Docker
+- **Tools:** Postman (API Testing), Git, Swagger, Fiddler, Jmeter
+- **Specialties:** Page Object Model (POM), Data-Driven Testing, Network Intercepting, BDD (Cucumber/Gherkin), API Automation, Performance Testing Basics.
 
 ---
 
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailcendik&show_icons=true&theme=tokyonight&count_private=true" alt="İsmail'in GitHub İstatistikleri" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcendik&layout=compact&theme=tokyonight&hide=html,css" alt="En Çok Kullanılan Diller" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailcendik&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="İsmail'in GitHub İstatistikleri" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcendik&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css" alt="En Çok Kullanılan Diller" height="180px"/>
 </p>
 
 ---
