@@ -8,8 +8,8 @@ Profesyonel test sistemleri inşa eden, web otomasyonu ve kalite süreçlerini s
 
 ### 🛠️ Teknolojiler & Araçlar
 
-- **Test Frameworks:** Cypress, Playwright, Selenium 
-- **Languages:** JavaScript, Typescript, Node.js, .NET, SQL
+- **Test Frameworks:** Cypress, Playwright, Selenium, Appium
+- **Languages:** JavaScript, Typescript, Node.js, .NET, SQL, Java
 - **CI/CD:** Azure Pipelines, GitHub Actions, Jenkins, Docker
 - **Tools:** Postman (API Testing), Git, Swagger, Fiddler, Jmeter
 - **Specialties:** Page Object Model (POM), Data-Driven Testing, Network Intercepting, BDD (Cucumber/Gherkin), API Automation, Performance Testing Basics.
