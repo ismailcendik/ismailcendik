@@ -39,4 +39,3 @@ Profesyonel test sistemleri inşa eden, web otomasyonu ve kalite süreçlerini s
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailcendik493@gmail.com)
 
 ---
-*"Kalite bir eylem değil, bir alışkanlıktır."*
