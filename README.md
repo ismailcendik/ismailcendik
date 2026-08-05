@@ -57,15 +57,6 @@ My expertise includes building maintainable automation architectures, API testin
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailcendik&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcendik&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css" height="180px"/>
-</p>
-
----
-
 # ⭐ Featured Projects
 
 ## 🚀 e-bebek Playwright Automation Framework
